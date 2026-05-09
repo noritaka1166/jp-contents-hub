@@ -44,21 +44,9 @@ tag : Redshift, Redshift ML, Redshift Spectrum
 Amazon Kinesis Services によるストリーミングデータインジェストと分析、AWS Data Migration Service によるバッチデータ取り込み、AWS Glue によるデータカタログとデータレイクでのETL 実行、Amazon Athena によるデータレイクへのクエリ、Amazon Quicksight による視覚化など、AWS の分析サービスを実際に体験できます。  
 tag : Amazon Athena, Kinesis Data Streams, Kinesis Data Firehose, Kinesis Data Analytics, Managed Streaming for Kafka, AWS Database Migration Service (AWS DMS), AWS Glue, Apache Hudi, Amazon QuickSight  
 
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/c7b9d931-6d86-4994-99e5-77ada5aaffbc/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon DataZone ハンズオン(ベーシック)</a>  
-このハンズオンでは、Amazon DataZoneを使った データの公開、サブスクライブ、分析といった、Amazon DataZone ポータルにおける基本的な操作方法を学習いただけます。  
-tag : Amazon DataZone、AWS Glue、Amazon S3、AWS Lake Formation、Amazon Athena  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/31a4a613-f306-4453-97df-2d0dc54c7fa7/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Kinesis データストリーム ハンズオン</a>  
-Amazon Data Firehose, Amazon Kinesis Data Streams(KDS), Amazon Managed Service for Apache Flink(MSF)を中心にストリーム処理を学びます。  
-tag : Amazon Data Firehose, Amazon Kinesis Data Streams(KDS), Amazon Managed Service for Apache Flink(MSF)  
-
 - <a href="https://github.com/aws-samples/startup-data-pipeline-samples" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">データ分析基盤の構築サンプル集</a>  
 AWS でデータ分析基盤を構築する際のサンプル手順集です。AWS 内で完結して安価に始められる簡易データ分析基盤、Google Analytics 4 と TORROCO を利用して外部の SaaS データを活用するデータ分析基盤など、コストやデータの量や組織の状況に応じて使い分けられるデータ分析基盤の構築手順を紹介します。  
 tag : RDS S3 Export, dbt, TROCCO, QucikSight, Athena  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/0360187d-4d94-4a16-887a-e83504cb435d/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Athena SQL Bootcamp</a>  
-本ワークショップ では、Amazon Athena を利用して、SQLの代表的なクエリ、Athena の使い方を学びます。本ワークショップは SQL を初めて扱う方を対象としています。ワークショップの所要時間は、全体で約 2 時間です。ワークショップ終了後、Amazon Athena の基本的な使い方と SQL の基本構文を理解することができます。  
-tag : Athena  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/06dbe60c-3a94-463e-8ac2-18c7f85788d4/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon SageMaker ワークショップ</a>  
 このワークショップでは、データ、分析、AIを統合した次世代の Amazon SageMaker を実践的に体験できます。SageMaker Unified Studio で提供される統合環境により、データサイエンティスト、エンジニア、アナリストなど様々な専門家がシームレスに協働し、データ分析を加速させる方法を学べます。データレイクからデータウェアハウスまでの統一アクセス、最先端のML/GenAIモデル開発、Amazon Bedrock を活用した生成AIアプリケーション構築など、エンドツーエンドの機能を一つのプラットフォームで体験できます。  
@@ -68,29 +56,13 @@ tag : Amazon SageMaker, AWS Lake Formation, AWS Glue
 QuickSight の埋め込み方法を学習頂けるワークショップです。  
 tag : Amazon QuickSight  
 
-- <a href="https://awsj-assets-qs.s3.ap-northeast-1.amazonaws.com/workshop/public/jp/index.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon QuickSight 埋め込みハンズオン</a>  
-マルチテナントで提供している Web サービスに QuickSight を埋め込む内容にフォーカスしたハンズオンです。ネームスペースやグループなどを活用した権限管理、ダッシュボードのテンプレートの展開方法などを学習いただけます。  
-tag : Amazon QuickSight  
-
-- <a href="https://dcj71ciaiav4i.cloudfront.net/B27AC3C0-2E0B-11EB-A818-F1507A734DA4/index.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Connected Vehicle Workshop</a>  
-このハンズオンでは、AWS サービスが Automotive のユースケースにどのように活用できるかについて、一連の手順で紹介します。今回はユースケースとして、車両をクラウドへ接続して、データの送受信、データの分析、データの可視化を体験していただきます。  
-tag : Amazon QuickSight, Amazon Athena, AWS IoT Core, Amazon Kinesis Firehose  
-
 - <a href="https://aws.amazon.com/jp/blogs/news/athena-federated-query-dynamodb-quicksight/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Athena Federated Query 経由で Amazon DynamoDB のデータを Amazon QuickSight で可視化するハンズオン</a>  
 Amazon Athena の Federated Query を活用するハンズオンです。DynamoDB のデータと、Amazon S3 上のデータを Athena 経由でジョインし、その結果を Amazon QuickSight で可視化する内容を体験いただけます。  
 tag : Amazon Athena, Amazon QuickSight  
 
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/36ef6487-da25-4aa2-96f8-1b36a0896a49/ja-JP/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Meter Data Analytics (MDA): メーターデータからの洞察の獲得</a>  
-AWS Meter Data Analytics Quick Start をベースに活用し、メーターデータ分析プラットフォームの活用方法を体験いただけます。  
-tag : AWS Glue, Amazon Athena, AWS Amplify, AWS Step Functions  
-
 - <a href="https://aws.amazon.com/jp/quickstart/architecture/utility-meter-data-analytics-platform/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS での Utility Meter Data Analytics</a>  
 機械学習 (ML) を使用して、スマートユーティリティメーターからのデータの分析に役立つプラットフォームを体験いただけます。  
 tag : Amazon Redshift, Amazon Athena, AWS Glue, SageMaker  
-
-- <a href="https://dcj71ciaiav4i.cloudfront.net/322031A0-7CA9-11EB-8D02-B70DEDD8DFCB/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Glue DataBrew ハンズオン</a>  
-このハンズオンでは、AWS Glue DataBrew の基本的な機能を試すことができます。 サンプルデータを用いて、Amazon QuickSight での可視化までを一括で行います。  
-tag : AWS Glue DataBrew, Amazon QuickSight, Amazon Athena  
 
 - <a href="https://github.com/harunobukameda/Amazon-Athena-ACID-transcation/blob/main/Amazon%20Athena%20ACID%20transaction%20workshop.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Athena ACID transaction workshop</a>  
 Amazon Athena はサーバレスで S3 などのデータに対して SQL クエリーが発行可能なインタラクティブな分析サービスです。新しく ACID トランザクションをサポートし、 INSERT, DELETE, UPDATE, 過去のデータに対してクエリーが発行可能なタイムトラベルクエリに対応しました。この新機能を体験頂くワークショップです。  
@@ -117,15 +89,7 @@ tag : Amazon Managed Workflows for Apache Airflow (MWAA), Amazon Athena
 None
 
 ## ![image]([img/Arch-Category_Cloud-Financial-Management_16.png]()) AWS Cost Management
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/7afe32b1-9ffa-4372-9a12-5905de89b593/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Instance Scheduler on AWS (Japanese)</a>  
-Instance Scheduler on AWS は、 AWSソリューション  の一つです。Amazon Elastic Compute Cloud (Amazon EC2) および Amazon Relational Database Service (Amazon RDS) インスタンスの開始スケジュールと停止スケジュールを設定して、AWS リソースコストを管理することができます。  
-tag : Instance Scheduler  
-
 ## ![image]([img/Arch-Category_Blockchain_16.png]()) Blockchain
-- <a href="https://dcj71ciaiav4i.cloudfront.net/31278980-D264-11EC-BB2B-AB3D7B3B0CB5/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">NFT Workshop</a>  
-このハンズオンでは AWS にあまり慣れていない方、NFT のサービスを構築したことがない開発者の方を対象に、AWS を活用しながら AWS CDK(Cloud Development Kit) を使って環境の自動構築、NFT のマーケットプレイスの作成、NFT の発行、NFT の売買、2 次流通で作者に印税を支払う をすることで、AWS と NFT に慣れ親しんでもらうことを目的としています。  
-tag : Amazon Managed Blockchain, Ethereum, NFT  
-
 - <a href="https://github.com/harunobukameda/Amazon-Managed-Blockchain/blob/main/Amazon%20Managed%20Blockchain.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Managed Blockchain (Hyperledger Fabric) ワークショップ</a>  
 このハンズオンでは、Amazon Managed Blockchain で Hyperledger Fabric を構成し、サンプルスマートコントラクトを動かすまでの内容を体験いただけます。  
 tag : Amazon Managed Blockchain  
@@ -143,18 +107,6 @@ tag : Amazon Connect
 Amazon Connect を利用したコンタクトセンターの構築・利用方法をを学んでいただき、実際に基本的なコンタクトセンターの構築を行います。  
 tag : Amazon Connect  
 
-- <a href="https://dcj71ciaiav4i.cloudfront.net/C0E944B0-ED58-11EB-9CB8-0BD8579425D1/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect Bootcamp</a>  
-このワークショップでは、Amazon Connectおよび関連するAWSのサービスを段階的に構築することで、コンタクトセンターのユースケースに基づいて機能を実装する手順を体験します。   
-tag : Amazon Connect, AWS Lambda, Amazon DynamoDB, Amazon Lex  
-
-- <a href="https://dcj71ciaiav4i.cloudfront.net/2221C890-DC17-11EB-8F4E-4F5B1928BF72/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect CallBack Requester Hanson</a>  
-このワークショップでは、Amazon Pinpoint、AWS Lambda、Amazon Connectを使用して、顧客からのSMSリクエストに応じて、透過的に顧客を電話コールバックのキューに入れる方法を体験します。これにより、ユーザーはエージェントに電話をかけてもらうようにSMSで依頼するだけで、次のエージェントが空き次第、システムが自動的に顧客へ電話を発信します。  
-tag : Amazon Connect, Amazon Pinpoint, AWS Lambda  
-
-- <a href="https://catalog.workshops.aws/amazon-pinpoint-customer-experience/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Pinpoint で作るカスタマーエクスペリエンス</a>  
-このワークショップを通してPinpointでカスタマーエクスペリエンスを向上させるための環境構築を学べます。セグメントやパーソナライズ 、ジャーニーなどの各種機能、Personalizeとの連携や各種APIの操作など、幅広くPinpointを理解することができます。  
-tag : Amazon Pinpoint, Amazon Personalize  
-
 - <a href="https://catalog.workshops.aws/amazon-connect-lex-integration/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect and Amazon Lex Integration</a>  
 このワークショップでは、Amazon Connect を Amazon Lex と統合する方法を説明し、コンタクトセンターのセルフサービスや、ダイナミックでパーソナライズされた応答を提供を実現する方法を説明します。  
 tag : Amazon Connect, Amazon Lex  
@@ -167,21 +119,9 @@ tag : Amazon Simple Email Service, Amazon SES
 Amazon Connect では、SAML 2.0 準拠の ID プロバイダーを使用して、コンタクトセンターへのシングルサインオンアクセスを提供できます。本ハンズオンでは、Okta、PingOne、Microsoft Entra ID、Google Workspace、OneLogin、AWS IAM Identity Center を使用した SSO のセットアップ方法を体験できます。  
 tag : Amazon Connect  
 
-- <a href="https://catalog.workshops.aws/amazon-connect-dynamic-personalized-routing/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect dynamic and personalized routing</a>  
-このワークショップでは、Amazon Connect のルーティングをさまざまなシナリオで実装することで、顧客を適切なエージェントに適切なタイミングでつなぐ方法と、ビジネス運用モデルに合わせてルーティング条件を調整するための優れた方法を学びます。このワークショップは要件に対し参加者でディスカッションしながら実装を検討する方式を想定していますが、1人でも行うことができます。  
-tag : Amazon Connect  
-
 - <a href="https://catalog.workshops.aws/amazon-connect-profiles/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect Customer Profiles Workshop</a>  
 このワークショップでは、エージェントが効率的でパーソナライズされたカスタマーサービスを提供できるように、Salesforce などの外部アプリケーションの情報と Amazon Connect のコンタクト履歴を組み合わせることにより、Customer Profilesがエージェントが必要となる情報を提供できることを体験します。  
 tag : Amazon Connect, Salesforce, Zendesk, Marketo, ServiceNow, Segment, Shopify  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/ed3fc8e1-cb23-4bce-b2f3-a2bfeaa3aa7d/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect Customer Voice ID Workshop</a>  
-このワークショップでは、一連のハンズオンラボを通してAmazon Connect Voice ID をセットアップする方法を学習し、通話者の声で認証あるいは詐欺師を検出し、Amazon Connect Voice ID のさまざまな機能を探ります。  
-tag : Amazon Connect  
-
-- <a href="https://dcj71ciaiav4i.cloudfront.net/95511DB0-03C3-11EC-987F-DD6A7ED7D037/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect Dive Deep Training</a>  
-このワークショップは、Amazon ConnectのBasic HandsonやBootcampを体験した方を対象に、コンタクトセンターに必要となる様々な機能を、関連するAWSサービスやSaaSサービスと連携して実現することにより顧客体験/従業員体験を向上させる方法を学びます。  
-tag : Amazon Connect, Amazon Lex, Amazon Transcribe, Amazon Comprehend, Amazon Translate  
 
 - <a href="https://catalog.workshops.aws/amazon-connect-tasks/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect Tasks Enablement Workshop</a>  
 このワークショップでは、Amazon Connect Tasksを設定し、特定のシナリオに基づいて動作確認することで、Tasksのユースケースを体験します。  
@@ -208,10 +148,6 @@ tag : Amazon EC2, Auto Scaling
 このワークショップでは、スケールするワークロードに対してコストを最適化しながらAmazon EC2を活用する方法を学びます。具体的には、Amazon EC2スポットインスタンスとEC2 Auto Scalingでの複数インスタンスタイプ・複数購入オプションの構成方法を取り上げます。  
 tag : Amazon EC2, Spot Instance  
 
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/b6ea8509-42a3-4792-9020-24f9210d32f2/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">CI/CD for AWS Batch Workshop</a>  
-本ワークショップでは、AWS Batch の CI/CD パイプラインを構築します。まずは Docker イメージを手動で更新し、次に CI/CD パイプラインを構築することで、自動で AWS Batch に Docker イメージが反映されることを体感して頂けます。  
-tag : AWS Batch, AWS CodeBuild, AWS CodePipeline  
-
 - <a href="https://catalog.workshops.aws/aws-batch-deep-dive/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Batch Deep Dive 日本語</a>  
 このワークショップでは、AWS Batch の基本概念と使用方法について詳しく説明します。AWS Batch の事前知識は必要ありませんが、AWS クラウドとバッチ計算の概念についての最小限の理解が必要です。したがって、初心者から中級者レベルの方に適しています。  
 tag : AWS Batch  
@@ -219,10 +155,6 @@ tag : AWS Batch
 - <a href="https://catalog.workshops.aws/cloud-hello-world" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Cloud Hello World / クラウド入門</a>  
 このハンズオンでは、Amazon EC2 を使用して仮想サーバーを起動し、簡単な Web アプリケーションをデプロイする体験を行います。クラウドコンピューティングの基本概念を理解し、AWS マネジメントコンソールの操作に慣れることを目的としています。発展編として Amplify の操作も体験し、EC2 でのWebデプロイとの違いを考察できます。  
 tag : Amazon EC2, Amplify  
-
-- <a href="https://dcj71ciaiav4i.cloudfront.net/DF2C2C00-CD94-11EB-9681-5F0F8AE2FC7B/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon EC2 Inf1 Workshop</a>  
-本ワークショップでは、AWS が設計、開発を行った AWS Inferentia 推論チップを搭載した Amazon EC2 Inf1 インスタンスを実際に体験して頂けます。  
-tag : Amazon EC2, Inferentia  
 
 - <a href="https://catalog.workshops.aws/nitro-enclaves/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Nitro Enclaves Workshop</a>  
 機密性の高いデータを AWS Nitro Enclaves で処理する方法を学習します  
@@ -235,18 +167,6 @@ tag : Amazon EC2, Amazon VPC, Amazon RDS
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/f2b80cb7-e073-4226-9256-41c3d68129c4/ja-JP/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">HPC on AWS Hands-On for AWS ParallelCluster</a>  
 クラウド上に HPC 用クラスタ環境を構築できる AWS ParallelCluster のハンズオンです。AWS ParallelCluster によるクラスタ作成から、ジョブスケジューラと紐づいた計算ノードの自動スケール、HPCサンプルアプリケーションの実行等を行う内容を体験頂けます。  
 tag : HPC, AWS ParallelCluster  
-
-- <a href="https://dcj71ciaiav4i.cloudfront.net/7D61D560-2032-11EC-A266-972BACDB6195/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">HPC on AWS: AWS Batch</a>  
-クラウド上で大規模な処理を行うための AWS Batch 入門です。マネージメントコンソール上で AWS Batch を利用する方法や、コンテナを自作してジョブを投げる方法を体験頂けます。  
-tag : HPC, AWS Batch  
-
-- <a href="https://dcj71ciaiav4i.cloudfront.net/6D60A3C0-A51C-11EC-8797-DD307316E16B/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">HPC Workshop (Parallel Cluster/AWS Batch)</a>  
-HPC (High-Performance Computing) の環境を作って試す内容を学習できます。  
-tag : HPC, AWS ParallelCluster, AWS Batch  
-
-- <a href="https://dcj71ciaiav4i.cloudfront.net/0667B2A0-115E-11EC-905E-29850FE3346B/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Workshop for AWS Academy (Cloud9/EC2/RDS/S3/SSM)</a>  
-踏み台環境・サーバ・データベース・オブジェクトストレージ を AWS 上で設定する内容を体験できます。  
-tag : AWS Cloud9, Amazon EC2, Amazon S3, Amazon RDS, AWS Systems Manager  
 
 - <a href="https://github.com/harunobukameda/EC2-Image-Builder/blob/main/EC2%20Image%20Builder%20Workshop.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">EC2 Image Builder ワークショップ</a>  
 AWS またはオンプレミスで使用するための仮想マシンとコンテナイメージの構築、テスト、およびデプロイを簡素化するサービスを体験いただけます。  
@@ -261,33 +181,9 @@ tag : Amazon ECS, AWS Fargate, Amazon ECR
 このハンズオンでは、Ruby on Rails ウェブアプリケーションをコンテナ化し、ECS on EC2 および ECS on Fargate を使用したアプリケーションのデプロイ、オートスケーリングを体験します。また、発展コンテンツでは CI/CD パイプラインの作成を体験します。  
 tag : Amazon ECS, AWS Fargate, Amazon ECR, AWS CodeBuild, AWS CodePipeline  
 
-- <a href="https://dcj71ciaiav4i.cloudfront.net/D0B5A980-C9FC-11EB-ABD7-3362918AE194/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">ECS Workshop - Cats and Dogs-</a>  
- Amazon ECS や Fargate、さらには Docker コンテナの開発ワークフローにあまり馴染みのない方に最適なコンテンツを提供しています。  
-tag : Amazon ECS, Amazon ECR, AWS FireLens, Container Insights, Auto Scaling  
-
 - <a href="https://eks-for-aws-summit-online.workshop.aws/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Introduction to Amazon EKS</a>  
 このハンズオンでは、 Amazon Elastic Kubernetes Service (Amazon EKS) とクラスターの作成および管理のためのシンプルなコマンドラインユーティリティである eksctl を使用して、マネージドな Kubernetes クラスターを実行します。  サンプル Web アプリケーションをビルドして Kuberneres クラスターにデプロイし、kubectl コマンドによる Kubernetes の操作と、Amazon EKS 上でのアプリケーションの実行を体験していただきます。  
 tag : Amazon EKS  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/d75a936d-6a08-46b5-97c1-8666de887924" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Helm Introduction Workshop</a>  
-このハンズオンでは、Helm を使ったアプリケーションのデプロイ方法を紹介します。公開されている Helm チャートを利用するだけであれば、Helm チャートの作り方や、Helm チャートの中身の詳細を理解する必要はありませんが、Helm チャートの内部構造についても知っていると、トラブルシューティングなどに役立つことがあります。  
-tag : Kubernetes, EKS, Helm  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/a49e50ba-7473-4348-ba5d-6166385ad91d/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">コンテナ化のためのリファクタリング / リアーキテクティング ワークショップ</a>  
-このワークショップは、既存のアプリケーションをリファクタリング、リアーキテクティングし、コンテナ化していく流れをご体験いただくものです。このワークショップでは、 The Twelve-Factor App を参考にアプリケーションをリファクタリングしてコンテナ化したり、そのアプリケーションを Amazon Elastic Container Service (Amazon ECS)  の環境にデプロイしたりする体験を通して、コンテナ化に必要な知識や作業を一通り学ぶことができます。  
-tag : Amazon ECS, Amazon ECR, AWS Fargate, ElastiCache for Redis, Java, Tomcat  
-
-- <a href="https://dcj71ciaiav4i.cloudfront.net/CF2469D0-FE58-11EC-96B1-AB890FC54FAE/index.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon ECS マイクロサービス & CI/CD ハンズオン</a>  
-Amazon ECS 上で稼働するコンテナに対して、CI/CD パイプラインを構築する方法を学習頂けます。  
-tag : Amazon ECS, AWS CodeCommit, AWS CodeBuild, AWS CodePipeline  
-
-- <a href="https://catalog.workshops.aws/ecs-service-connect/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">ECS Service Connect ワークショップ</a>  
-このワークショップでは、実際に Amazon ECS Service Connect を使用してコンテナアプリケーションをデプロイし、サービスディスカバリや VPC 内のサービス間通信、サービスエンドポイントのヘルスチェックとトラフィック管理、シンプルな運用とデバッグを実現する ECS コンソールを使用したトラフィックの考察、既存のサービスを ECS Service Connect を用いた構成に移行するプロセスなど、ECS Service Connect の利点について確認していきます。  
-tag : Amazon ECS, AWS Cloud Map, ECS Service Connect  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/a0193a6a-70c1-45e2-91e2-879852adb0d0/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">EKS x Istio Workshop</a>  
-このハンズオンでは、 Amazon Elastic Kubernetes Service (Amazon EKS) と オープンソースのサービスメッシュプラットフォームである Istio を使用して、マイクロサービス間の認証やモニタリング、相互認証、L7 での柔軟なロードバランシング等をご体験頂けます。  
-tag : Amazon EKS, Istio, Envoy  
 
 - <a href="https://catalog.workshops.aws/app-runner/ja-JP/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS App Runner ワークショップ</a>  
 このワークショップでは、まず App Runner サービスの作成方法を学びます。その後、作成したサービスに少しずつ機能を追加しながら、VPC 接続やオートスケーリングなどの機能や、 SSM パラメータストア、Secrets Manager、WAF、X-Ray などの AWS サービスとの統合について学習します。  
@@ -321,19 +217,11 @@ tag : Amazon EKS, Amazon DocumentDB
 Proton は、アプリケーション開発に必要な AWS 環境、継続的インテグレーション/継続的デプロイパイプラインを開発者が様々なインタフェース、言語を意識することなく Proton 上から利用することができることに大きなメリットがあります。  本ハンズオンは、アプリケーション実行に必要な環境構築に責任をもつインフラエンジニア、アプリケーション開発に責任をもつ開発エンジニアとそれぞれの観点で作業を記載しています。  それぞれの作業内容を理解し、Proton を実際に利用する時のイメージを持ってもらうことを目的としています。  
 tag : AWS Proton, Amazon ECS, AWS Fargate  
 
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/d03316be-3c29-49db-8dc3-eb196c1778c9/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Copilot Primer Workshop</a>  
-このワークショップでは、サンプルの TODO アプリ作成を通して Copilot の機能を体感できます。  
-tag : AWS Copilot, Amazon ECS, CI/CD, AWS CodePipeline, AWS CodeCommit, AWS CodeBuild  
-
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/12f31c93-5926-4477-996c-d47f4524905d/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">クラウドネイティブな自動車用ソフトウェア開発入門</a>  
 本ワークショップでは、AWS Graviton インスタンス、Raspberry Pi および AVA Developer Platform というすべてのコンピュート要素において、コンテナ化した同一のワークロードを*環境パリティ*を保ちながら実行可能な、新しい Automotive-Native なソフトウェア開発用のインフラを紹介します。  
 tag : Amazon EC2, Graviton, CodeCommit, CodeBuild, CodePipeline, YOLO  
 
 ## ![image]([img/Arch-Category_Database_16.png]()) Database
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/bea58024-ba60-4875-a7c7-52121e5d4b70/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon RDS Performance Insightsによる性能分析ワークショップ</a>  
-ワークショップではサンプルプログラムを利用してデータベースの典型的な負荷を発生させます。この負荷が Peformance Insights を通じてどのように観測でき、負荷の原因をどのように分析できるのかを体験します。  
-tag : Amazon Aurora PostgreSQL-compatible, Amazon RDS Performance Insights  
-
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/35f635d7-2941-4cba-a4a0-b4c6ec95df6b/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Aurora PostgreSQL のアップグレードとメンテナンスタスク</a>  
 Amazon Aurora PostgreSQL は、AWS で PostgreSQL を実行したいユーザー向けのマネージドデータベースサービスです。Amazon Aurora は AWS クラウド内のデータベースのセットアップ、運用、スケーリングを自動化します。他のデータベースデプロイと同様に、Amazon Aurora は随時アップグレードしてパッチを適用する必要があります。このワークショップを修了すると、Amazon Aurora PostgreSQL クラスターで主要なメンテナンスタスクを計画して実行する方法を理解できるようになります。バージョンのアップグレードなどのメンテナンスタスクを実行するためのさまざまなオプションと、メンテナンスタスクに関連するベストプラクティスについて学びます。  
 tag : Amazon Aurora PostgreSQL-compatible  
@@ -359,21 +247,9 @@ tag : Babelfish for Aurora PostgreSQL
 AWS CodeCommit、AWS CodeBuild、AWS CodeDeploy、AWS CodePipeline を利用し、継続的インテグレーション/継続的デプロイメント(CI/CD)構成を作成します。  
 tag : AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy, AWS CodePipelie  
 
-- <a href="https://catalog.workshops.aws/integrated-devops/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon CodeCatalyst Workshop</a>  
-CodeCatalyst は、ソフトウェアチームが日々の活動を調整し、開発プロセス全体を管理することで、アイデアを本番環境で動作するソフトウェアに迅速に変換できるよう支援する、DevOps ツールの統合セットを提供するマネージド・サービスです。このワークショップでは、AWS チームが、ツールセットアップのオーバーヘッドなしにプロジェクトを迅速に開始し、チーム作業とプロジェクトの進捗を監視し、アドホックな問題に取り組み、一貫した環境を設定し、デプロイメントを自動化するために知っておくべきことを紹介します。  
-tag : Amazon CodeCatalyst  
-
 - <a href="https://catalog.workshops.aws/cicdonaws/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">CI/CD on AWS ワークショップ</a>  
 このワークショップは、ソフトウェアエンジニア、プラットフォームエンジニア、アーキテクトが、AWS で継続的インテグレーションと継続的デリバリー (CI/CD) ツールを使い始めるための実践的な体験を提供することを目的としています。  
 tag : CI/CD, CDK, Amazon ECS, CodeCommit, CodeBuild, CodePipeline  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/1193c2c1-493f-4ec8-a493-14b913b4f7c1/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">カオスエンジニアリングワークショップ</a>  
-本ワークショップでは、実践を通じてカオスエンジニアリングの基礎を学ぶことを目的としています。ハンズオンを通じて、WEB３層アーキテクチャにおける各コンポーネント障害に対する回復力や、AWS Fault Injection Simulator にる実験管理の方法について確認していきます。  
-tag : AWS Fault Injection Simulator  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/401f5147-738e-45d9-be9f-fed9c42a60b0/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">分散負荷テストソリューション ワークショップ</a>  
-Distributed Load Testing (分散負荷テスト) on AWS  は、負荷テストに必要な負荷クライアントを必要なタイミングで必要量だけ立ち上げて負荷掛けを実行し、試験が終了したら自動で停止できるソリューションです。本ワークショップでは、 同ソリューションを利用し、実際に動くワークロードに対して負荷テストを実行していきます。ワークショップを通じて負荷テストの実施方法について学ぶことができます。  
-tag : Distributed Load Testing on AWS  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/10141411-0192-4021-afa8-2436f3c66bd8/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS CDK Immersion Day ワークショップ</a>  
 本ワークショップは、AWS CDK を手を動かしながら学習できるコンテンツです。開発環境をセットアップし、CDK Toolkit を用いて AWS 環境へアプリケーションをデプロイする手順について体験できます。AWS CDK Workshop の後継ワークショップです。  
@@ -400,19 +276,11 @@ tag : Amazon WorkSpaces
 このラボでは、AWS 上で動作するフルマネージドで安全なアプリケーションストリーミングサービスであるAmazon AppStream 2.0 を使用して、デスクトップアプリケーションを展開しストリーミングする方法について学習します。想定所要時間：4時間  
 tag : Amazon AppStream 2.0  
 
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/175b7a95-3a3e-4be0-8c5d-dd3c79d1b4f1/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">CloudWatch を使用した WorkSpaces ユーザーのアクセスとセキュリティの分析のワークショップ</a>  
-多くの WorkSpaces の管理者は、WorkSpace に接続しているユーザー、IPアドレス、プラットフォーム、クライアントのバージョンの情報を求めています。それだけでなく、CPU、メモリ、ディスクの使用率など、WorkSpace 内のリソース使用率に関する情報も必要としています。このワークショップでは、CloudWatch を使ってどのようにそれらの情報を取得することが出来るかを紹介します。  
-tag : Amazon WorkSpaces  
-
 - <a href="https://github.com/harunobukameda/Amazon-WorkSpaces-Web/blob/main/WorkSpacesWeb.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon WorkSpaces Web ワークショップ</a>  
 Amazon WorkSpaces Web は、VPC に接続することのできる Web ブラウザをリモートアクセスすることのできるサービスです。このハンズオンでは、Amazon WorkSpaces Web を学習頂けます。  
 tag : Amazon WorkSpaces Web  
 
 ## ![image]([img/Arch-Category_Front-End-Web-Mobile_16.png]()) Front-end Web & Mobile
-- <a href="https://catalog.workshops.aws/amplify-vue3" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Amplify Workshop with Vue.js</a>  
-AWS を使用したスケーラブルなモバイルアプリおよびウェブアプリの作成、設定、実装を容易にする AWS Amplify を提供しています。このワークショップでは、AWS Amplify と Vue.js を利用した、手早く、かつスケールするアプリケーションの実装を体験できます。  
-tag : AWS Amplify, Vue.js, AWS AppSync, Amazon DynamoDB, Amazon Cognito, Amazon Pinpoint, Amazon Comprehend, Amazon Translate, Amazon Polly, Amazon Rekognition  
-
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-amplify-2022-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Amplify を用いた Web サイトの構築方法を学ぼう</a>  
 AWS Amplify という Web フロントエンド、モバイルアプリの開発を加速させるサービスを利用した Web サイトの構築方法について理解を深めることができます。  
 tag : AWS Amplify, AWS AppSync, Amazon Cognito, Amazon DynamoDB  
@@ -449,10 +317,6 @@ None
 AWS IoT Core の基本的な機能や、他のAWSサービスとの連携方法、デバイス側でのSDKや証明書の使い方など、IoTデバイスからAWSへ接続、データをアップロードし、活用するための手順を一通り学ぶことができます。  
 tag : AWS IoT Core, Amazon Kinesis Data Streams, AWS Lambda, Amazon DynamoDB, Amazon API Gateway, Amazon OpenSearch Service, Amazon Kinesis Firehose, Amazon S3  
 
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/001cd52d-8105-4da9-a0c2-ee391260e0c7/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT Jumpstart</a>  
-WS IoT サービスを使用して本番環境に対応した IoT アプリケーションを設計するための、 アーキテクトや開発者向けのハンズオントレーニングを実施します。  
-tag : AWS IoT Core, AWS IoT Analytics, Amazon QuickSight, Amazon SageMaker, AWS Lambda, AWS AppSync, Amazon DynamoDB, Amazon Cognito, AWS IoT Device Defender, IoT Device Management  
-
 - <a href="https://pages.awscloud.com/hands-on-for-beginners-aws-iot-core-reg.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Hands-on for Beginners - AWS IoT Coreを用いてIoTデバイスから取得した情報でダッシュボードを構築する</a>  
 こちらのハンズオンでは、AWS IoT Coreを用いてIoTデバイスから取得した情報でダッシュボードを構築することでAWS IoT Core の基礎を学ぶことが出来るようになっています。「IoT デバイスとクラウドの連携を考えている方」「AWS IoT Core の使用感を簡単に試してみたい方」「-情報の収集から可視化まで一連の流れを試してみたい方」といった方におすすめです。  
 tag : AWS IoT Core, Amazon CloudWatch, AWS Cloud9  
@@ -469,10 +333,6 @@ tag : AWS IoT Core, AWS IoT Device Management,
 増えていくデバイスの設定がゆるくなってしまったことを検出したり、複数の条件を満たすような挙動をしているデバイスを検出する方法について体験していただくことが出来ます  
 tag : AWS IoT Core, AWS IoT Device Defender, Amazon SNS, AWS Lambda  
 
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/4ae2dd76-c365-42e4-b66b-ed475363d562/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT Events 初級ハンズオン</a>  
-このハンズオンでは AWS IoT Events を利用し、コードレスで複雑な状態管理のアプリケーションを構築する方法について学びます。  
-tag : AWS IoT Core, AWS IoT Events, Amazon SNS  
-
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/5ecc2416-f956-4273-b729-d0d30556013f/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT Greengrass 2.0 入門ハンズオン</a>  
 reengrass V2の基本機能やアプリケーションの開発方法を学ぶことができます。また、エッジランタイムをAWSサービス上で動作させるため、エッジデバイス実機を用意していただく必要はなく、AWSアカウントとブラウザがあればすぐに試すことができます。こちらのハンズオンを通じて体験する開発方法や、作成するアプリケーションは、次のステップとして実機での利用に活用していただくことが可能です。  
 tag : AWS IoT Greengrass V2  
@@ -480,18 +340,6 @@ tag : AWS IoT Greengrass V2
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/b95a6659-bd4f-4567-8307-bddb43a608c4/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">IoT Core for LoRaWAN workshop</a>  
 AWS IoT Core for LoRaWAN を使用してプライベート LoRaWAN ネットワークを構築する方法を学習します。 LoRaWAN ネットワークをセットアップした後で、LoRaWAN デバイスからのデータを AWS アプリケーションで利用する方法と、LoRaWAN デバイスからのデータを活用したIoTソリューションを実際に構築する方法を学習します。  
 tag : AWS IoT Core for LoRaWAN  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/f3e15719-fcf0-4f2c-8105-4fae1aedba33/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT TwinMaker workshop for beginners</a>  
-既存の 3D モデルを AWS IoT TwinMaker でインポートして、物理空間とその状態を 3D シーン上で表現します。AWS IoT TwinMaker では他の時系列などのデータストアサービスに接続して、デジタルツイン上で表現するコンポーネント（データコネクタ）を作成します。仲介するサービス数を抑えたシンプルなアーキテクチャで構成され、AWS IoT TwinMaker 学習の最初の一歩としておすすめです。  
-tag : AWS IoT TwinMaker, Amazon Timestream, Amazon Managed Grafana  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/35e910c5-245f-41db-8284-73f0df0eb9ab/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS IoT DevloperDay with IoT TwinMaker</a>  
-既存の 3D モデルを AWS IoT TwinMaker でインポートして、物理空間とその状態を 3D シーン上で表現します。AWS IoT SiteWise では産業プロトコルのデータの取り扱いに適しているサービスです。今回はCloud9で生成された擬似的なセンサーデータをIoT Coreで受け取り、SiteWiseにデータを転送します。その後、デジタルツイン上で表現するコンポーネント（データコネクタ）を作成し、SiteWise と S3 のデータをTwinMakerで扱うハンズオンです。AWS IoT TwinMaker 学習の最初の一歩としておすすめです。  
-tag : AWS IoT TwinMaker, AWS IoT SiteWise, AWS IoT Core, AWS IoT Core , Amazon Managed Grafana  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/b95b9381-baf0-4bef-ba31-63817d54c2a6/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Kinesis Video Streams ハンズオン</a>  
-Amazon Kinesis Video Streams を用いたカメラデバイスからの動画の収集、保存、 ライブやオンデマンドでの再生、動画ファイルのダウンロード、 Amazon Rekognition Video と組み合わせたライブ顔認識やニアリアルタイム分析などを行う方法を学びます。また、WebRTC を用いてカメラデバイスとブラウザ間で低遅延、双方向のメディアストリーミングを行う方法についても学べます。  
-tag : Amazon Kinesis Video Streams, Amazon Rekognition Video  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/0ee4408e-818a-4774-b03d-bf68bfc016ac/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Industrial IoT Workshop</a>  
 本ワークショップでは、AWS における IIoT の概念や関連するサービスの概要を把握していただくために設計されています。また PLC に接続し、データ(タグ)を取り込み、ほぼリアルタイムでデータを可視化し、データレイクの一部としてこうしたデータがどのように使えるのかを実際に体験していただきます。  
@@ -510,21 +358,9 @@ tag : Amazon Bedrock AgentCore
 Amazon Bedrock を Lambda, API Gateway から呼び出すアプリケーションを構築する手順を学習します。応用系として RAG・文書要約・マルチモーダルの画像解析といった複数パターンのアプリケーションを構築できます。自社で生成AIをアプリケーションに組み込みたいお客様に Bedrock を API から呼び出す基礎の部分を学習してもらえるコンテンツとなっています。  
 tag : Amazon Bedrock, AWS Lambda, Amazon API Gateway  
 
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/7271111a-22bd-40e7-971a-817b0c083c67/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Bedrock + Anthropic Claude 3 開発体験ワークショップ</a>  
-このワークショップでは Amazon Bedrock から Anthropic Claude 3 を呼び出すプログラミングを体験して頂きます。AWS Cloud9 から Python を使用してプログラミングを実施します。必要な Python コードはこのワークショップ内に記載していますので、普段 Python を使用した開発を行っていない方にもご利用頂けます。  
-tag : Amazon Bedrock  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/5677057b-93d7-4354-9a6c-db9434c15b5c/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Building with Amazon Bedrock (Japanese)</a>  
-主にAmazon BedrockでAnthropic Claude 3を使用し、生成 AI を使ったデモを作成し、チャットボット、RAG、画像生成、文書要約、データ抽出、ストリーミング応答、プロンプトエンジニアリングなどを体験できます。基礎レベル～基本レベル～マルチモーダルやプロンプトエンジニアリングなど、各種レベルのラボが揃っており、幅広いお客様に使用いただけます。ほとんどのラボでPython、Streamlitを使ってでもアプリを作っているため、具体的にどのようにBedrockを呼び出すアプリケーションを作ればいいか理解を深めることが出来ます。  
-tag : Amazon Bedrock  
-
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/ca98ae19-48a5-4f95-90e3-56bbfeaae0fc/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">コードを書かない 生成AI Hands-on</a>  
 「生成 AI を聞いたことがある」という人は多くを占めるのではないでしょうか。生成 AI はその名の通り、「生成する」技術です。テキストや画像を入力に、これまでにない新しい画像やテキストを生成します。このワークショップでは AWS のコードを書かずに使える生成 AI サービスを使用して、ビジネスに生成 AI を導入する体験をします。  
 tag : Amazon Bedrock, Prompt Flows  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/6708bce5-6aa3-4acb-89f7-85c39c006c8c/en-US" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Kendra を利用した Retrieval Augmented Generation (RAG) ハンズオン</a>  
-Amazon Kendra とその検索結果をもとに生成系 AI を使ってわかりやすい回答文を作成する RAG（Retrieval Augmented Generation：拡張検索生成）アプリケーションを構築します。生成系 AI や AWS に関する深い知識は不要で、入門レベルの内容となっています。  
-tag : Amazon Kendra, 生成系AI, RAG (Retrieval Augmented Generation)  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">SageMaker Immersion Day</a>  
 Amazon SageMaker Immersion Dayは、特徴量エンジニアリングからさまざまなビルトインアルゴリズムの理解、本番環境のようなシナリオでのMLモデルのトレーニング、チューニング、デプロイまで、MLユースケース構築のエンドツーエンドの理解をお客様やパートナーに提供します。 独自のモデルを持ち込んで、オンプレミスのMLワークロードをAmazon SageMakerプラットフォームにリフト＆シフトする方法を説明します。 さらに、モデルのデバッグ、モデルの監視、AutoMLのような高度なコンセプトを説明し、AWS ML Well-Architectedレンズを通して機械学習のワークロードを評価するためのガイドを行います。 このワークショップは、主にデータサイエンティストを対象としていますが、AWSを使った機械学習について知りたい方であれば、どなたでも参加できます。  
@@ -545,18 +381,6 @@ tag : Amazon SageMaker Studio Lab
 - <a href="https://github.com/aws-samples/aws-ml-enablement-workshop" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">ML Enablement Workshop</a>  
 プロダクトを開発するチームが、課題解決の選択肢として機械学習を選択できるようになることをゴールとしたワークショップです。プロダクトマネージャー向けの機械学習インプット、開発者向けの機械学習ハンズオン、3 者全員でユースケースを発見するためのアイデアソンの 3 部構成となっています。自社のプロダクトで機械学習を活用するためのチーム間のコミュニケーションの醸成、具体的なユースケースの発見を行うために利用頂けます。  
 tag : Amazon SageMaker Studio Lab  
-
-- <a href="https://dcj71ciaiav4i.cloudfront.net/E33695C0-835B-11EB-8E80-138DCE1C124F/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">機械学習入門者向けハンズオン : 機械学習で画像を分類してみよう</a>  
-このハンズオンでは、これから機械学習を始めようと考えている方が、プログラミングを通じて機械学習について理解することを目的としています。機械学習には Python を利用しますので、Python を使ったプログラミング経験があるとスムーズです。  
-tag : Amazon SageMaker, scikit-learn  
-
-- <a href="https://dcj71ciaiav4i.cloudfront.net/81427A00-A999-11EB-A30A-E311773AC105/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">SageMaker Workshop Linear Learner with MNIST</a>  
-SageMaker のNotebook環境を立ち上げて使ってみる内容です。0 から 9 までの手書きで書かれた数字を学習し、0 かそれ以外を判定する機械学習モデルを作成する内容を体験いただけます。  
-tag : Amazon SageMaker, MNIST  
-
-- <a href="https://dcj71ciaiav4i.cloudfront.net/BE9D0570-8AD9-11EB-AD13-537EEE6AAE51/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">機械学習中級者向けハンズオン : Amazon SageMaker Hands-on Workshop</a>  
-このハンズオンでは、Amazon SageMaker の機能を使って機械学習を簡単に始められることを目的としています。本ワークショップでは機械学習でよく使われる Python 言語を中心に進めていきますので、Python を使ったプログラミング経験があるとスムーズです  
-tag : Amazon SageMaker, scikit-learn  
 
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-AIML-2022-reg-event.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Managed AI/ML サービス はじめの一歩</a>  
 AWS には機械学習の深い知識がなくとも AI/ML を組み込める Managed な AI/ML サービス群があります。このハンズオンでは、5つの AI/ML サービスを利用する方法について学んでいただけます。  
@@ -598,25 +422,13 @@ tag : Amazon Personalize
 このハンズオンでは、WordPress を構築し、AWS サービスと連携して音声機能・翻訳機能・画像のカテゴライズ機能を追加する方法を体験頂けます。リンクににある Download ボタンから、zip ファイルをダウンロードして学習を進められます。  
 tag : Amazon Translate, Amazon Polly, Amazon Rekognition  
 
-- <a href="https://dcj71ciaiav4i.cloudfront.net/D5606580-B8E8-11EB-BFFC-8979D922AC62/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Rekognition Immersion Day</a>  
-Rekognition の機能や API に関するハンズオンを行います。これにより、オブジェクト、シーン、顔の検出、テキストの抽出、有名人の認識、および画像やビデオの不適切なコンテンツを特定することができます。また、カスタム画像解析モデルを構築して、ビジネスに固有の画像内のオブジェクトとシーンを特定します。最後に、Augmented AI を使用して、人間によるレビューを行うワークフローを Amazon Rekognition と統合する方法について学びます。  
-tag : Amazon Rekognition  
-
 - <a href="https://github.com/harunobukameda/Amazon-Robomaker/blob/master/RoboMakerHandsonLoft20191008.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS RoboMaker ハンズオン</a>  
 このハンズオンでは強化学習を⾏うロボットアプリケーションを使い、AWS RoboMaker の機能のうち、「開発環 境」と「シミュレーション」機能について体験できます。  
 tag : AWS RoboMaker  
 
-- <a href="https://dcj71ciaiav4i.cloudfront.net/4FE06AD0-A999-11EB-A30A-E311773AC105/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Workshop for AWS Academy Learner Lab (SageMaker R-kernel)</a>  
-SageMaker Notebook で、R を扱うハンズオンです。iris データセットを使いながら、R で散布図や標準偏差、回帰直線などを利用する手順を体験いただけます。  
-tag : Amazon SageMaker, R  
-
 - <a href="https://github.com/harunobukameda/Amazon-SageMaker-JumpStart/blob/main/Amazon%20SageMaker%20JumpStart%20Workshop.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon SageMaker JumpStart Workshop</a>  
 SageMaker JumpStart は、機械学習を始めるのに役立つ、広範な問題タイプに対する事前トレーニング済みのオープンソースモデルを提供します。このハンズオンでは、JumpStart を使って画像に映っている動物の判別、日本語文字列の相関分析などを体験いただけます。  
 tag : Amazon SageMaker JumpStart  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/d9ca179a-3a36-4822-9f80-0b3ffcc26f37/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Generative AI - Stable Diffusion on Amazon SageMaker Workshop</a>  
-Extension for Stable Diffusion on AWS solution を利用して、Amazon SageMaker エンドポイントを呼び出し、大量の画像を生成する方法、また、モデルを自動的に微調整するパイプラインを構築する方法を学びます。  
-tag : Stable Difussion, SageMaker, Generative AI  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/95a3c231-2064-4a33-9a3d-624b7c11aaa6/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Dify での生成 AI アプリケーション構築ワークショップ</a>  
 Dify は、大規模言語モデル (LLM) を活用した生成 AI アプリを簡単に開発できる、オープンソースのプラットフォームです。ユーザーは、Dify を利用してノーコードで AI アプリを構築できます。本ワークショップは、 AWS 上に構築した Dify を利用し、生成 AI アプリ (チャットボット、エージェント、ワークフロー) を構築していきます。  
@@ -626,10 +438,6 @@ tag : Amazon Bedrock, Dify
 このワークショップでは、Amazon Bedrock Agents を活用したアプリケーションを AWS 上に構築し、物流業界のシナリオとして、プロンプトをもとに生成AIがDBのデータを参照・更新を行うことを体験できます。  
 tag : Amazon Bedrock Agents  
 
-- <a href="https://d2847pa3oul13l.cloudfront.net/index-genai.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWSちょっと触ってみる編 - 生成AI版</a>  
-Amazon Q Developer や Amazon Bedrock の入門的なハンズオンです。初めの使い方を学びやすいコンテンツを提供します。  
-tag : Q Developer, Amazon Bedrock  
-
 - <a href="https://github.com/aws-samples/aws-ml-jp" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS の機械学習サービスのサンプルコードのためのレポジトリ</a>  
 AWS の機械学習サービスのサンプルコードのためのレポジトリです。  
 tag : Repository  
@@ -638,10 +446,6 @@ tag : Repository
 - <a href="https://catalog.workshops.aws/observability/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">One Observability Workshop</a>  
 このワークショップは、AWS が提供するさまざまなツールセットで、アプリケーションの監視と監視をセットアップするための実践的な体験を提供することを目的としています。  
 tag : Amazon CloudWatch ServiceLens, AWS X-Ray, Amazon CloudWatch Contributor Insights, Amazon CloudWatch Synthetics, Amazon CloudWatch RUM, Amazon CloudWatch Evidently, Container Insights, Logs Insights, Lambda Insights, Amazon Managed Service for Prometheus, Amazon Managed Grafana, AWS Distro for OpenTelemetry  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/7e60f6e3-0c8f-488a-bedc-632aa8d526ea/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Systems Manager ハンズオン</a>  
-AWS Systems Manager の各種利用方法を学習できます。フリートマネージャーやセッションマネージャーによるリモート接続、RunCommand によるサーバ群へのコマンド一括投入、OS パッチの自動適用などを学習できます。  
-tag : AWS Systems Manager, Fleet Manager, Systems Manager, RunCommand, Patch Manager  
 
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-systems-manager-2022-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Systems Managerを使ったサーバ管理はじめの一歩編</a>  
 AWS Systems Managerを使った、サーバのインベントリデータ収集、リモート接続、サーバへの一括コマンド実行などの管理運用について学べます  
@@ -712,10 +516,6 @@ tag : Amazon CloudWatch RUM
 AWS Elemental Media Services のハンズオンです。 このコンテンツではよくあるユースケースに沿って、手を動かしながらライブストリーミング（Live Straeming）配信、ビデオオンデマンド（VOD）配信の基本を学習いただけます。  
 tag : AWS Elemental Live, AWS Elemental MediaLive, AWS Elemental MediaPackage, Amazon CloudFront, AWS Elemental MediaStore, AWS Elemental MediaTailor, AWS Elemental MediaConvert, Amazon S3  
 
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/022adf04-0ff9-49af-848f-993e42575540/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon IVSを使ったLive配信の構築</a>  
-このワークショップでは、Amazon Interactive Video Service を使用してライブストリーミングチャンネルを作成します。AWS コンソールを使用してチャネルを作成し、ライブストリームを数分で開始する方法を学習します。  
-tag : Amazon Interactive Video Service(IVS)  
-
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/0205fa06-d4e3-4299-8458-0a3c169e301d/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">vMixをEC2で稼働させるクラウド制作</a>  
 本ワークショップでは、Amazon Elastic Compute Cloud（Amazon EC2）上の vMix と AWS Elemental Media Services もしくは、Amazon Interactive Video Service を使用して、独自のクラウドベースのライブプロダクションおよびストリーミングプラットフォームを構成します。  
 tag : vMix, AWS Elemental MediaLive, AWS Elemental MediaPackage, Amazon CloudFront, Amazon S3, Amazon Interactive Video Service(IVS)  
@@ -733,14 +533,6 @@ tag : Amazon Interactive Video Service
 tag : Amazon Interactive Video Service(IVS)  
 
 ## ![image]([img/Arch-Category_Migration-Transfer_16.png]()) Migration & Transfer
-- <a href="https://dcj71ciaiav4i.cloudfront.net/75BEDEA0-D70A-11EB-91FC-CFB7976F85AB/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Application Migration Service(MGN) ハンズオン</a>  
-このハンズオンでは、AWS Application Migration Service(以後MGN) を使った仮想サーバーの移行を体験することができます。オハイオリージョンをオンプレミス環境と想定して、アプリケーションサーバーをオハイオからバージニア北部に移行するハンズオンになっています。  
-tag : AWS Application Migration Service(MGN), Amazon EC2  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/9c18a3d9-4d18-45b3-99a5-400b249d0c5f/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Modernize .NET application from A to Z workshop</a>  
-AWS Toolkit for .NET Refactoring と Babelfish for Amazon Aurora PostgreSQL を利用して、レガシーな Microsoft ワークロードをオープンソースの基盤にモダナイズする一連の工程をハンズオン形式で体験できます。  
-tag : AWS Toolkit for .NET Refactoring, Babelfish for Amazon Aurora PostgreSQL, Visual Studio 2022  
-
 - <a href="https://github.com/harunobukameda/AWS-Migration-Hub-Refactor-Spaces/blob/main/AWS%20Migration%20Hub%20Refactor%20Spaces%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Migration Hub Refactor Spaces ワークショップ</a>  
 Migration Hub Refactor Spaces は AWS 上で動作している Rosati を持つモノリシ ックなウェブアプリケーションをマイクロサービスへ移行させる際に、ストラングラーフ ィグパターンによる移行作業を簡素化するために、ネットワーク構成を構築するサービス です。Migration Hub Refactor Spaces をどのように活用できるか学習できるワークショップです。  
 tag : AWS Migration Hub Refactor Spaces  
@@ -786,17 +578,9 @@ tag : Amazon VPC Lattice
 AWS Direct Connectを実際に利用することにより、Amazon VPCとオンプレミスとの相互接続に関する理解を深めることを目的としています。※ 一般的にお持ちの AWS アカウントでは、このハンズオンを実際に試すことができません。画面のスクリーンショットや説明が丁寧に記載されているため、参考ドキュメントとしてご活用ください。  
 tag : Direct Connect, Direct Connect Gateway, Transit Gateway  
 
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/a47907fc-ead9-4cc5-b964-3f208ddd472f/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS PrivateLink ワークショップ</a>  
-AWS PrivateLink  とは、データをインターネットに公開することなく、VPC と 対応する AWS サービス間を接続することができるサービスです。このハンズオンの目的は PrivateLink の基本的な設定方法を理解することです。  
-tag : AWS PrivateLink  
-
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/3547afcd-0829-4d44-85e8-17b68d4b52bc/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Cloud WAN ハンズオン</a>  
 ハンズオンを通して、AWS Cloud WAN と、Amazon VPC、AWS Site-to-Site VPN、AWS Transit Gatway、Connect Attachment を介した SD-WAN(相当) との接続の方法を理解します。また、VPC と複数のセグメントを介したルーティング制御について理解をすることを目的としています。  
 tag : AWS Cloud WAN  
-
-- <a href="https://dcj71ciaiav4i.cloudfront.net/7CB85370-A998-11EB-A09B-259812622FA1/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Workshop for AWS Educate (CloudFront/S3)</a>  
-CloudFront と S3 を利用して、サーバレスな Web 配信を体験いただける内容です。  
-tag : Amazon S3, Amazon CloudFront  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/e0d1c19d-c80b-4695-a3fc-5c4a25132f47/ja-JP/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Transit Gateway ハンズオン</a>  
 ハンズオンを通して、AWS Transit Gateway を実際に利用することにより、Amazon VPC をクロスアカウント、ハブアンドスポークでの相互接続、トランジットゲートウェイピアリングによるクロスリージョン 接続に関する理解を深めることを目的としています。  
@@ -851,17 +635,9 @@ tag :  AWS Identity and Access Management (IAM), AWS CloudTrail, AWS Config, Ama
 サービス間で送受信されるワークロードを守るゼロトラストアーキテクチャについて演習を交えて解説します。  
 tag : Amazon API Gateway, AWS PrivateLink, AWS Lambda, Amazon DynamoDB, Amazon GuardDuty  
 
-- <a href="https://dcj71ciaiav4i.cloudfront.net/DE7AE230-18E7-11EC-96D4-A3A8E3F74BCA/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">開発者のためのセキュリティ</a>  
-このワークショップでは、自分が構築したアプリケーション のセキュリティについて考える方法を学びます。一般的なセキュリティリスクと、ソフトウェアデリバリーに大きな影響を与えることなくアプリケーションを保護するために使用できるツールとテクニックについて説明します。  
-tag : OWASP Top 10,  静的アプリケーションセキュリティテスト (SAST), ソフトウェア構成解析 (SCA), 動的アプリケーションセキュリティテスト (DAST), セキュアコードレビュー  
-
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/a11f0f32-cc23-4c95-b243-43c53bdc7177/ja-JP/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Data Perimeter Workshop</a>  
 多くの組織で、お客様がオンプレミス環境で実現しているのと同じように、AWS環境でネットワークとアイデンティティの境界 (Perimeter) を構築したいと考えています。本ワークショップでは、AWSのお客様のリソースに対して境界を構築するためのいくつかのベストプラクティス、利用可能な AWS サービスや機能について紹介します。  
 tag : Session Manager, CloudTrail, Athena, データ境界コントロール  
-
-- <a href="https://catalog.workshops.aws/startup-security-stay-secure-while-building-quickly/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Startup Security :迅速な構築の中でセキュリティを確保するためのテクニック</a>  
-このワークショップでは OWASP ジュースショップの Web サイトを例として、既存のシステムにセキュリティを迅速に導入する手順を学習いただけます。  
-tag : GuardDuty, WAF, IAM  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/18b3622c-5d4c-45c9-9834-6a7091109072/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Identity and Access Management (IAM) Immersion Day</a>  
 この IAM Immersion Day ワークショップでは、サービスの説明と AWS によるハンズオンラボを組み合わせて、AWS アイデンティティ とアクセス管理 (IAM) と大規模なガバナンスの方法について学びます。  
@@ -890,18 +666,6 @@ tag : AWS Network Firewall
 - <a href="https://catalog.workshops.aws/detective/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Detective ワークショップ</a>  
 このワークショップでは、さまざまなユースケースを通して Amazon Detective の基本を学びます。 AWS の脅威検出および対応サービス、ベストプラクティス、ユースケースに精通し、学んだことをシナリオに活かすことができます。  
 tag : Amazon Detective, Security Hub, EKS, Security Lake  
-
-- <a href="https://d2h9aujg4hgxod.cloudfront.net/72704A00-FCD4-11EB-B3AC-898E20057A09/index.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">GuardDuty Workshop</a>  
-Amazon GuardDuty (マネージド型脅威検出サービス)を使用した脅威の検出と修復をカバーするシナリオについて説明します。このシナリオは、GuardDuty が検出できる脅威の一部を表す、いくつかの脅威ベクトルにまたがる攻撃をシミュレートします。さらに、GuardDuty の検出結果を表示および分析する方法、その結果に基づいてアラートを送信する方法、最後に検出結果に対する修復方法について説明します。  
-tag : Amazon GuardDuty  
-
-- <a href="https://dcj71ciaiav4i.cloudfront.net/591796E0-D127-11EB-A6A5-FB83B2BAF6EE/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Cognito API ハンズオン</a>  
-このハンズオンではこの Cognito ユーザプールに焦点をあて、基礎から理解するために直接 API の操作を行ってみるハンズオンとなっています。  
-tag : Amazon Cognito  
-
-- <a href="https://dcj71ciaiav4i.cloudfront.net/0A4DEB20-C89E-11ED-A834-5D52D9748576/chapter1.html" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Cognito Workshop</a>  
-Amazon Cognitoは、モバイルアプリやWebアプリにユーザーのサインアップや認証機能を簡単に追加できるサービスです。このワークショップでは、Cognitoについて詳しく説明し、ペットストアの認証ソリューションを構築します。  
-tag : Amazon Cognito, API Gateway  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/60a6ee4e-e32d-42f5-bd9b-4a2f7c135a72/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">SIEM on Amazon OpenSearch Service ワークショップ</a>  
 Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) にセキュリティログ分析基盤を構築し、 セキュリティ対応とその構築を体験します。  
@@ -935,10 +699,6 @@ tag : AWS Serverless Application Model (AWS SAM), AWS Lambda, Amazon DynamoDB, A
 - <a href="https://github.com/harunobukameda/AWS-Amplify-AWS-Lambda-Amazon-DynamoDB-AWS-API-Gateway-Amazon-Cognito/blob/master/Scenario.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">はじめてのサーバーレス</a>  
 AWS では、サーバレスアプリケーションを構成するための様々なサービスが提供されています。例えば、 Lambda, DynamoDB, API Gateway, Cognito などが挙げられます。このハンズオンでは、 これらのサービスを一つずつ構築していくことで、step-by-step でサーバーレ スアプリケーションの構築方法について理解して頂くことをゴールとしています。   
 tag : AWS Lambda, Amazon DynamoDB, Amazon API Gateway, Amazon Cognito  
-
-- <a href="https://dcj71ciaiav4i.cloudfront.net/49D0D220-8D0F-11EB-8F39-FD9A62BABEEC/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">サービス連携の体験ハンズオン</a>  
-このハンズオンでは、AWS のサーバーレスサービスにあまり触れたことがない方を対象として、Lambda / S3 / SNS / SQS / API Gateway をはじめとしたサービスの連携を体験しながら、サーバーレスサービスに親しんでいただくことを目的としています。  
-tag : AWS Lambda, Amazon S3, Amazon SNS, Amazon SQS  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/f2c0706c-7192-495f-853c-fd3341db265a/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Iterative App Modernization Workshop</a>  
 このワークショップは、モノリシックアーキテクチャからマイクロサービスアーキテクチャに移行するプロセスをガイドします。  
@@ -981,10 +741,6 @@ tag : AWS Step Functions, AWS Lambda,
 こちらのハンズオンでは、Amazon FSx for Windows File Server を使ってファイルサーバ構築の基礎を学ぶことが出来るようになっています。AWS 環境におけるマネージドなファイルサーバ運用に向けた一歩目として活用頂ければと思います。  
 tag : Amazon FSx, Amazon FSx for Windows File Server, AWS Directory Service, AWS Managed Microsoft AD  
 
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/c08d6a29-a963-46f0-823a-cf4bebccad7a/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon FSx for Windows File Server ワークショップ</a>  
-Amazon FSx for Windows File Server サービスを使用して、既存の SMB ファイルベースのワークロードを AWS に簡単に移行し、管理する方法を学ぶワークショップです。  
-tag : Amazon FSx for Windows  
-
 - <a href="https://github.com/aws-samples/amazon-fsx-workshop/tree/master/windows-file-server/JP/01-access-as-environment" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon FSx for Windows File Server ワークショップ</a>  
 このハンズオンでは、FSx for Windows File Server への接続方法、スループット変更方法、重複排除機能の有効化、シャドーコピー機能の有効化、ストレージ容量の拡張方法などを学習頂けます。  
 tag : Amazon FSx for Windows File Server  
@@ -1000,10 +756,6 @@ tag : Amazon FSx for NetApp ONTAP
 - <a href="https://catalog.us-east-1.prod.workshops.aws/datasync-migrate-millions-of-files/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS DataSync を利用した Amazon S3 への移行ハンズオン</a>  
 このハンズオンは AWS DataSync を使用して、オンプレミスの NFS サーバーから Amazon S3 へ何百万ものファイルを転送する*中上級レベル* (Level 300) のワークショップです。ワークショップでは、AWS DataSync を使用した大規模なデータセットを転送する手順と、考慮すべき内容や高度な概念について説明します。  
 tag : AWS DataSync  
-
-- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/31cff0b6-a1b8-4a45-8f2d-7a1773ddc61f/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Snowball Edge によるデータ移行</a>  
-AWS Snowball Edge は、データ転送とエッジコンピューティングのためのデバイスです。 このワークショップでは、Snowball Edge ハードウェアの接続方法とデータ転送方法を示します。  
-tag : AWS Snowball Edge, Amazon S3  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/ecb3502f-b9f1-420b-989b-df16e9cab834/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Elastic Disaster Recovery ワークショップ</a>  
 DRSは、お客様のマシンを、ターゲットのAWSアカウントおよび任意のリージョン内の低コストのステージングエリアに継続的にレプリケートします。このハンズオンでは、DRSを使用したフェイルオーバーとフェイルバックを学習いただけます。  

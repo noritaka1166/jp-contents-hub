@@ -13,6 +13,9 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2026-05-09
+リンク切れてとなっていたハンズオンコンテンツを整理
+
 ## 2025-09-16
 ハンズオンコンテンツ 5件 追加  
 
