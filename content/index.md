@@ -185,10 +185,6 @@ tag : Amazon ECS, AWS Fargate, Amazon ECR, AWS CodeBuild, AWS CodePipeline
 このハンズオンでは、 Amazon Elastic Kubernetes Service (Amazon EKS) とクラスターの作成および管理のためのシンプルなコマンドラインユーティリティである eksctl を使用して、マネージドな Kubernetes クラスターを実行します。  サンプル Web アプリケーションをビルドして Kuberneres クラスターにデプロイし、kubectl コマンドによる Kubernetes の操作と、Amazon EKS 上でのアプリケーションの実行を体験していただきます。  
 tag : Amazon EKS  
 
-- <a href="https://catalog.workshops.aws/app-runner/ja-JP/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS App Runner ワークショップ</a>  
-このワークショップでは、まず App Runner サービスの作成方法を学びます。その後、作成したサービスに少しずつ機能を追加しながら、VPC 接続やオートスケーリングなどの機能や、 SSM パラメータストア、Secrets Manager、WAF、X-Ray などの AWS サービスとの統合について学習します。  
-tag : AWS App Runner、Amazon ECR、AWS X-Ray、AWS WAF、AWS Secrets Manager、AWS Systems Manager  
-
 - <a href="https://catalog.workshops.aws/karpenter/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Karpenter ワークショップ</a>  
 このワークショップでは、ハンズオンラボとサンプルを通して Karpenter の概念を深く掘り下げていきます。Karpenter の利用によってアプリケーションの可用性が向上し、コンピューティングコストが削減され、運用オーバーヘッドが最小限に抑えられることを学びます。  
 tag : Amazon EKS, Karpenter  
@@ -197,14 +193,6 @@ tag : Amazon EKS, Karpenter
 Amazon Aurora と Amazon ECS を使用して、可用性とスケーラビリティを備えた Todo 管理アプリケーションを構築します。アプリケーションをECSで動かし、Amazon Auroraと組み合わせることで、高い可用性とスケーラビリティを実現します。 実際の負荷テストを通じて、Auto Scaling による動的なリソース調整や CloudWatch メトリクスでのモニタリング、データベースのフェイルオーバーなど、可用性を維持するための実践的な手法を体験できます。AWS 初心者の方でも理解しやすいよう、トラブルシューティングの手順も詳しく解説しており、環境構築用の CloudFormation テンプレートも提供しています。  
 tag : Amazon Aurora, Amazon ECS, Amazon CloudWatch, Elastic Load Balancing, Amazon VPC, AWS CloudFormation  
 
-- <a href="https://github.com/harunobukameda/AWS-App-Runner/blob/main/AWS%20App%20Runner%20%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS App Runner ワークショップ</a>  
-App Runner と GitHub を連携して、シンプルな Web アプリケーションをデプロイする方法を学習いただけます。  
-tag : AWS App Runner  
-
-- <a href="https://github.com/harunobukameda/AWS-App-Mesh-AWS-Cloud-Map/blob/main/AWS%20App%20Mesh.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS App Mesh & AWS Cloud Map ワークショップ</a>  
-App Mesh の基本的な動作を紹介し、アプリケーションのネットワーキングを提供するサービスメッシュを体験いただけます。  
-tag : AWS App Mesh, AWS Cloud Map  
-
 - <a href="https://pages.awscloud.com/rs/112-TZM-766/images/AWS_CICD_ECS_Handson.pdf" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS CI/CD for Amazon ECS ハンズオン</a>  
 Amazon ECS を初めとした AWS サービスを活用して、コンテナによるマイクロサービス CI/CD をご体験いただけます。  
 tag : Amazon ECS, AWS CodeCommit, AWS CodeBuild, AWS CodePipeline  
@@ -212,10 +200,6 @@ tag : Amazon ECS, AWS CodeCommit, AWS CodeBuild, AWS CodePipeline
 - <a href="https://aws.amazon.com/jp/blogs/news/open-source-mobile-core-network-implementation-on-amazon-elastic-kubernetes-service/" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Elastic Kubernetes Service 上でのオープンソースモバイルコアネットワークの実装</a>  
 オープンソースプロジェクト Open5gs を使用して 4G コアネットワークを構築するための実用的な実装ステップを学習いただけます。  
 tag : Amazon EKS, Amazon DocumentDB  
-
-- <a href="https://github.com/harunobukameda/AWS-Proton-AWS-Fargate" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Proton で ECS Fargate のアプリケーション実行環境を作ってみようハンズオン</a>  
-Proton は、アプリケーション開発に必要な AWS 環境、継続的インテグレーション/継続的デプロイパイプラインを開発者が様々なインタフェース、言語を意識することなく Proton 上から利用することができることに大きなメリットがあります。  本ハンズオンは、アプリケーション実行に必要な環境構築に責任をもつインフラエンジニア、アプリケーション開発に責任をもつ開発エンジニアとそれぞれの観点で作業を記載しています。  それぞれの作業内容を理解し、Proton を実際に利用する時のイメージを持ってもらうことを目的としています。  
-tag : AWS Proton, Amazon ECS, AWS Fargate  
 
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/12f31c93-5926-4477-996c-d47f4524905d/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">クラウドネイティブな自動車用ソフトウェア開発入門</a>  
 本ワークショップでは、AWS Graviton インスタンス、Raspberry Pi および AVA Developer Platform というすべてのコンピュート要素において、コンテナ化した同一のワークロードを*環境パリティ*を保ちながら実行可能な、新しい Automotive-Native なソフトウェア開発用のインフラを紹介します。  
