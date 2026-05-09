@@ -263,6 +263,10 @@ tag : AWS Fault Injection Service
 AWS Fault Injection Simulator は、AWS 上で障害を起こし可用性・回復性が問題ないか実験を行うためのマネージドサービスです。このワークショップでは、EC2 インスタンスを終了したときの実験をする内容を学習できます。  
 tag : AWS Fault Injection Simulator  
 
+- <a href="https://catalog.workshops.aws/smart-products-ai-sdlc/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Accelerating Smart Product SDLC with AI Agent Workshop</a>  
+このワークショップでは、AI エージェントを活用したスマートプロダクト開発のSDLC（ソフトウェア開発ライフサイクル）全体の加速を学べます。空調システムを題材に、調査・プロトタイピング、仕様策定、組み込みソフトウェアを含むテスト・デバッグ、CI/CDパイプライン構築、クラウド運用という開発の各段階でAIがどのように貢献できるかを5つの実習ラボで体験します。開発速度の向上、品質の向上、プロセスの効率化、そして人間とAIが協調する次世代の開発手法を実践的に習得できます。  
+tag : Kiro, Kiro CLI, AWS IoT Core, Ticket Driven Development, CI/CD  
+
 ## ![image]([img/Arch-Category_End-User-Computing_16.png]()) End User Computing
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/ba8389fd-99a1-4010-a95e-d691a2c08311/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon WorkSpaces 入門</a>  
 このラボでは、Amazon WorkSpaces とAWS Directory Service を使用して、組織のエンドユーザー向けにクラウドデスクトップを展開する方法について学習します。想定所要時間：4時間  
