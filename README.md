@@ -14,9 +14,18 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 # 更新履歴
 
 ## 2026-05-09
-ハンズオンコンテンツ 1件 追加  
+ハンズオンコンテンツ 4件 追加  
 Amazon SageMaker with IAM Based Domain Event  
 https://catalog.us-east-1.prod.workshops.aws/workshops/c3b321f0-230a-4b85-baa1-8486032538ce/ja-JP  
+
+AWS の AI/ML および 生成 AI サービスを使用した SAP 買掛金処理のモダナイゼーション  
+https://catalog.us-east-1.prod.workshops.aws/workshops/6bfb401c-b349-4fcd-b82d-e94f76bec635/ja-JP  
+
+AWS for SAP アナリティクスモダナイゼーション: Zero ETL の AI 駆動型インサイト  
+https://catalog.us-east-1.prod.workshops.aws/workshops/d7d6df4d-66cf-440d-9686-75fc7ef28813/ja-JP  
+
+生成AIを活用したSAP ABAPアプリケーション構築とユニットテストケースの生成  
+https://catalog.workshops.aws/abapgenai/ja-JP  
 
 リンク切れてとなっていたハンズオンコンテンツを整理
 

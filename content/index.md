@@ -618,6 +618,18 @@ tag : Amazon Cognito, Verified Permissions
 SAP HANA のインストール、SAP HANA を S3 にバックアップ、Systems Manager を利用してバックアップのスケジューリングを行う内容を体験いただけます。  
 tag : SAP HANA, AWS Launch Wizard for SAP, AWS Backint Agent, AWS Systems Manager Maintenance Windows  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/6bfb401c-b349-4fcd-b82d-e94f76bec635/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS の AI/ML および 生成 AI サービスを使用した SAP 買掛金処理のモダナイゼーション</a>  
+このワークショップでは、AWS の AI/ML および生成 AI サービスを使用してインテリジェントなドキュメント処理ソリューションを実装する方法を学びます。AWS サービスと統合することで、ERP スタックからネイティブに SAP のビジネスプロセスを拡張します。  
+tag : Amazon Bedrock, Amazon Textract, AWS SDK for SAP ABAP  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/d7d6df4d-66cf-440d-9686-75fc7ef28813/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS for SAP アナリティクスモダナイゼーション: Zero ETL の AI 駆動型インサイト</a>  
+AWS Glue SAP OData Zero-ETL Integration により、複雑な抽出ロジックや高価な ETL ツールなしで、OData サービスを通じて SAP データを直接抽出できます。Amazon SageMaker Unified Studio と生成 AI 機能を組み合わせることで、自然言語のやり取りを通じてデータの識別、変換ロジックの生成、インサイトの提供を実現します。  
+tag : AWS Glue SAP OData Zero-ETL Integration, Amazon SageMaker Unified Studio, Amazon QuickSight  
+
+- <a href="https://catalog.workshops.aws/abapgenai/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">生成AIを活用したSAP ABAPアプリケーション構築とユニットテストケースの生成</a>  
+このセッションでは、Amazon Q Developer と Model Context Protocol (MCP) が、コード生成、テスト、デプロイの自動化を通じて、SAP ABAP 開発をどのように革新するかを体験します。  
+tag : Amazon Q Developer  
+
 ## Sustainability
 - <a href="https://catalog.workshops.aws/well-architected-sustainability/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Well-Architected Framework 持続可能性の柱を学べるワークショップ</a>  
 Well-Archtiected Framework の「持続可能性の柱」を学んでいただけるワークショップです。このワークショップでは、持続可能性に配慮したアーキテクチャ設計の原則と、AWS  のサービスやツールを使った持続可能性を実現するベストプラクティスをハンズオンを通じて理解を深めることができます。  
