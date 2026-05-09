@@ -123,6 +123,22 @@ tag : Amazon Connect
 このワークショップでは、エージェントが効率的でパーソナライズされたカスタマーサービスを提供できるように、Salesforce などの外部アプリケーションの情報と Amazon Connect のコンタクト履歴を組み合わせることにより、Customer Profilesがエージェントが必要となる情報を提供できることを体験します。  
 tag : Amazon Connect, Salesforce, Zendesk, Marketo, ServiceNow, Segment, Shopify  
 
+- <a href="https://catalog.workshops.aws/amazon-connect-global-resiliency/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect Global Resiliency</a>  
+Amazon Connect Global Resiliency(ACGR) は、お客様に地理的なテレフォニーの冗長性を提供し、予期しない停止や中断が発生した場合に、問い合わせとエージェントを別のリージョンにあるインスタンスに分散する柔軟なソリューションを提供します。このワークショップでは、ACGR 開始手順と、AWS CLI から電話番号とエージェントフェイルオーバーをテストする方法について説明します。  
+tag : Amazon Connect  
+
+- <a href="https://catalog.workshops.aws/amazon-connect-outbound-campaigns/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect - マルチチャネルアウトバウンドキャンペーン</a>  
+Amazon Connect の機能の1つである Amazon Connect アウトバウンドキャンペーンでは、音声、SMS、E メールで顧客に迅速にサービスを提供し、エージェントの生産性を向上させることができます。このワークショップでは、Amazon Connect アウトバウンドキャンペーンの設定方法を学び、顧客エンゲージメント戦略と運用効率に対する理解を深めます。  
+tag : Amazon Connect  
+
+- <a href="https://catalog.workshops.aws/amazon-connect-optimization/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect の予測、キャパシティプランニング、スケジューリング</a>  
+Amazon Connect の機能の 1 つである予測、キャパシティプランニング、スケジューリングは、人員超過を最小限に抑えながら、運用目標を達成するために、適切な数のエージェントを予測、割り当て、検証するのに役立ちます。このワークショップでは、短期および長期の需要予測、必要な人員配置計画、エージェントの高精度なスケジュール作成について学びます。  
+tag : Amazon Connect  
+
+- <a href="https://catalog.workshops.aws/amazon-q-in-connect/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Q in Connect ワークショップ</a>  
+Amazon Connect の機能である Amazon Q in Connect は、エージェントが必要とする情報を提供し、回答を探す時間を短縮します。このワークショップでは、生成 AI の力を活用して、コンタクトセンターのエージェントを支援する方法を学びます。  
+tag : Amazon Connect  
+
 ## ![image]([img/Arch-Category_Compute_16.png]()) Compute
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/47782ec0-8e8c-41e8-b873-9da91e822b36/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">スケーラブルウェブサイト構築 ハンズオン</a>  
 AWS 上 でスケーラブルな Web システムの構築を体験するハンズオンです。WordPress を EC2 で稼働しながら、スケーラブルな構成を体験できます。  
