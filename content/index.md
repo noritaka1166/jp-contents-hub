@@ -205,6 +205,10 @@ tag : Amazon EKS, Amazon DocumentDB
 本ワークショップでは、AWS Graviton インスタンス、Raspberry Pi および AVA Developer Platform というすべてのコンピュート要素において、コンテナ化した同一のワークロードを*環境パリティ*を保ちながら実行可能な、新しい Automotive-Native なソフトウェア開発用のインフラを紹介します。  
 tag : Amazon EC2, Graviton, CodeCommit, CodeBuild, CodePipeline, YOLO  
 
+- <a href="https://catalog.workshops.aws/ecs-immersion-day/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon ECS ワークショップ</a>  
+Amazon ECS と AWS Fargate の基礎から、オートスケーリング、モニタリング、ネットワーク、セキュリティ、デプロイ戦略まで、コンテナワークロードの実践的な運用を幅広く学べるワークショップです。  
+tag : Amazon ECS, AWS Fargate  
+
 ## ![image]([img/Arch-Category_Database_16.png]()) Database
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/35f635d7-2941-4cba-a4a0-b4c6ec95df6b/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Aurora PostgreSQL のアップグレードとメンテナンスタスク</a>  
 Amazon Aurora PostgreSQL は、AWS で PostgreSQL を実行したいユーザー向けのマネージドデータベースサービスです。Amazon Aurora は AWS クラウド内のデータベースのセットアップ、運用、スケーリングを自動化します。他のデータベースデプロイと同様に、Amazon Aurora は随時アップグレードしてパッチを適用する必要があります。このワークショップを修了すると、Amazon Aurora PostgreSQL クラスターで主要なメンテナンスタスクを計画して実行する方法を理解できるようになります。バージョンのアップグレードなどのメンテナンスタスクを実行するためのさまざまなオプションと、メンテナンスタスクに関連するベストプラクティスについて学びます。  
