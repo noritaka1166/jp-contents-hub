@@ -135,10 +135,6 @@ tag : Amazon Connect
 Amazon Connect の機能の 1 つである予測、キャパシティプランニング、スケジューリングは、人員超過を最小限に抑えながら、運用目標を達成するために、適切な数のエージェントを予測、割り当て、検証するのに役立ちます。このワークショップでは、短期および長期の需要予測、必要な人員配置計画、エージェントの高精度なスケジュール作成について学びます。  
 tag : Amazon Connect  
 
-- <a href="https://catalog.workshops.aws/amazon-q-in-connect/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Q in Connect ワークショップ</a>  
-Amazon Connect の機能である Amazon Q in Connect は、エージェントが必要とする情報を提供し、回答を探す時間を短縮します。このワークショップでは、生成 AI の力を活用して、コンタクトセンターのエージェントを支援する方法を学びます。  
-tag : Amazon Connect  
-
 ## ![image]([img/Arch-Category_Compute_16.png]()) Compute
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/47782ec0-8e8c-41e8-b873-9da91e822b36/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">スケーラブルウェブサイト構築 ハンズオン</a>  
 AWS 上 でスケーラブルな Web システムの構築を体験するハンズオンです。WordPress を EC2 で稼働しながら、スケーラブルな構成を体験できます。  
