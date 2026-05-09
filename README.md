@@ -14,7 +14,7 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 # 更新履歴
 
 ## 2026-05-09
-ハンズオンコンテンツ 4件 追加  
+ハンズオンコンテンツ 10件 追加  
 Amazon SageMaker with IAM Based Domain Event  
 https://catalog.us-east-1.prod.workshops.aws/workshops/c3b321f0-230a-4b85-baa1-8486032538ce/ja-JP  
 
@@ -27,7 +27,31 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/d7d6df4d-66cf-440d-9686-7
 生成AIを活用したSAP ABAPアプリケーション構築とユニットテストケースの生成  
 https://catalog.workshops.aws/abapgenai/ja-JP  
 
-リンク切れてとなっていたハンズオンコンテンツを整理
+Amazon ECS ワークショップ  
+https://catalog.workshops.aws/ecs-immersion-day/ja-JP  
+
+Amazon Connect Global Resiliency  
+https://catalog.workshops.aws/amazon-connect-global-resiliency/ja-JP  
+
+Amazon Connect - マルチチャネルアウトバウンドキャンペーン  
+https://catalog.workshops.aws/amazon-connect-outbound-campaigns/ja-JP  
+
+Amazon Connect の予測、キャパシティプランニング、スケジューリング  
+https://catalog.workshops.aws/amazon-connect-optimization/ja-JP  
+
+Accelerating Smart Product SDLC with AI Agent Workshop  
+https://catalog.workshops.aws/smart-products-ai-sdlc/ja-JP  
+
+Kiro CLI を使った高度な開発  
+https://catalog.workshops.aws/qadvanced/ja-JP  
+
+Amazon Bedrockを使用したAI駆動型サプライチェーン管理の構築  
+https://catalog.us-east-1.prod.workshops.aws/workshops/9178cd1e-6f29-4b63-9372-94067baf18b5/ja-JP  
+
+RDS PostgreSQL と Aurora PostgreSQL のパフォーマンス監視ワークショップ  
+https://catalog.us-east-1.prod.workshops.aws/workshops/31babd91-aa9a-4415-8ebf-ce0a6556a216/ja-JP  
+
+リンク切れとなっていたハンズオンコンテンツを整理
 
 ## 2025-09-16
 ハンズオンコンテンツ 5件 追加  
