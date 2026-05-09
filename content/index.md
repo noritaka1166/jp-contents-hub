@@ -123,10 +123,6 @@ tag : Amazon Connect
 このワークショップでは、エージェントが効率的でパーソナライズされたカスタマーサービスを提供できるように、Salesforce などの外部アプリケーションの情報と Amazon Connect のコンタクト履歴を組み合わせることにより、Customer Profilesがエージェントが必要となる情報を提供できることを体験します。  
 tag : Amazon Connect, Salesforce, Zendesk, Marketo, ServiceNow, Segment, Shopify  
 
-- <a href="https://catalog.workshops.aws/amazon-connect-tasks/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Connect Tasks Enablement Workshop</a>  
-このワークショップでは、Amazon Connect Tasksを設定し、特定のシナリオに基づいて動作確認することで、Tasksのユースケースを体験します。  
-tag : Amazon Connect  
-
 ## ![image]([img/Arch-Category_Compute_16.png]()) Compute
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/47782ec0-8e8c-41e8-b873-9da91e822b36/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">スケーラブルウェブサイト構築 ハンズオン</a>  
 AWS 上 でスケーラブルな Web システムの構築を体験するハンズオンです。WordPress を EC2 で稼働しながら、スケーラブルな構成を体験できます。  
