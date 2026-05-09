@@ -238,6 +238,10 @@ tag : Amazon Neptune
 Babelfish for Aurora PostgreSQL は、Amazon Aurora PostgreSQL 互換エディションの新機能であり、Aurora が Microsoft SQL Server 用に作成されたアプリケーションからのコマンドを理解できるようにします。Babelfish for Aurora PostgreSQL を学習頂けるワークショップです。  
 tag : Babelfish for Aurora PostgreSQL  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/31babd91-aa9a-4415-8ebf-ce0a6556a216/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">RDS PostgreSQL と Aurora PostgreSQL のパフォーマンス監視ワークショップ</a>  
+RDS PostgreSQL と Aurora PostgreSQL のパフォーマンスモニタリングワークショップへようこそ！ このワークショップは、データベース管理者、アプリケーション開発者、またはデータベース愛好家を対象としています。 このワークショップでは、RDS プラットフォームで利用可能な様々なツールと機能を使用して、パフォーマンスの問題をトラブルシューティングし、ボトルネックを特定する方法を学習します。  
+tag : Amazon RDS PostgreSQL, Amazon Aurora PostgreSQL-compatible, Amazon CloudWatch Database Insights  
+
 ## ![image]([img/Arch-Category_Developer-Tools_16.png]()) Developer Tools
 - <a href="https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-cicd-2022-reg-event.html?trk=aws_introduction_page" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">AWS Code サービス群を活用して、CI/CD のための構成を構築しよう！</a>  
 AWS CodeCommit、AWS CodeBuild、AWS CodeDeploy、AWS CodePipeline を利用し、継続的インテグレーション/継続的デプロイメント(CI/CD)構成を作成します。  
