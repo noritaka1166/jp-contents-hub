@@ -442,6 +442,10 @@ tag : Amazon Bedrock Agents
 AWS の機械学習サービスのサンプルコードのためのレポジトリです。  
 tag : Repository  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/c3b321f0-230a-4b85-baa1-8486032538ce/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon SageMaker with IAM Based Domain Event</a>  
+次世代の Amazon SageMaker IAM Based Domain を使用して、データ分析・可視化からデータエンジニアリング、ML モデル開発までを統合環境で実践的に体験できるワークショップです。売上トレンドの可視化や傾向モデルの構築などのビジネスユースケースを通じて学べます。  
+tag : Amazon SageMaker  
+
 ## ![image]([img/Arch-Category_Management-Governance_16.png]()) Management & Governance
 - <a href="https://catalog.workshops.aws/observability/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">One Observability Workshop</a>  
 このワークショップは、AWS が提供するさまざまなツールセットで、アプリケーションの監視と監視をセットアップするための実践的な体験を提供することを目的としています。  

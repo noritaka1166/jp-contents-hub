@@ -14,6 +14,10 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 # 更新履歴
 
 ## 2026-05-09
+ハンズオンコンテンツ 1件 追加  
+Amazon SageMaker with IAM Based Domain Event  
+https://catalog.us-east-1.prod.workshops.aws/workshops/c3b321f0-230a-4b85-baa1-8486032538ce/ja-JP  
+
 リンク切れてとなっていたハンズオンコンテンツを整理
 
 ## 2025-09-16
