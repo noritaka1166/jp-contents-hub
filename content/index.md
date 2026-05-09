@@ -446,6 +446,10 @@ tag : Repository
 次世代の Amazon SageMaker IAM Based Domain を使用して、データ分析・可視化からデータエンジニアリング、ML モデル開発までを統合環境で実践的に体験できるワークショップです。売上トレンドの可視化や傾向モデルの構築などのビジネスユースケースを通じて学べます。  
 tag : Amazon SageMaker  
 
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/9178cd1e-6f29-4b63-9372-94067baf18b5/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon Bedrockを使用したAI駆動型サプライチェーン管理の構築</a>  
+このハンズオンワークショップでは、Amazon Bedrock AgentCoreの機能を使用して既存のサプライチェーンシステムを強化する方法を学びます。Strands Agents SDKとインタラクティブなJupyterノートブックを使用して、混乱を分析し、在庫配分を最適化し、緩和戦略を自律的に実行できるインテリジェントなサプライチェーン管理システムを構築します。  
+tag : Amazon Bedrock AgentCore, Strands SDK, Supply Chain Management, SCM  
+
 ## ![image]([img/Arch-Category_Management-Governance_16.png]()) Management & Governance
 - <a href="https://catalog.workshops.aws/observability/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">One Observability Workshop</a>  
 このワークショップは、AWS が提供するさまざまなツールセットで、アプリケーションの監視と監視をセットアップするための実践的な体験を提供することを目的としています。  
