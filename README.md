@@ -13,6 +13,14 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 # 更新履歴
 
+## 2026-05-11
+ハンズオンコンテンツ 2件 追加  
+Kiro による AI 駆動開発  
+https://catalog.workshops.aws/kiro-immersion/ja-JP  
+
+Kiro で体験する AI 駆動開発ハンズオン  
+https://catalog.us-east-1.prod.workshops.aws/workshops/bea96f42-0c90-41cf-986e-8c684e372ff7/ja-JP  
+
 ## 2026-05-09
 ハンズオンコンテンツ 10件 追加  
 Amazon SageMaker with IAM Based Domain Event  

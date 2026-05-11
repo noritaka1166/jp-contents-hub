@@ -275,6 +275,14 @@ tag : Kiro, Kiro CLI, AWS IoT Core, Ticket Driven Development, CI/CD
 このワークショップでは、Kiro CLI の高度な機能を使用して、ソフトウェア開発ライフサイクルを加速します。Kiro CLI を使用したコードの計画、作成、最適化、トラブルシューティングの実践的な経験を得ることができます。  
 tag : Kiro, Kiro CLI, Spec Driven Development  
 
+- <a href="https://catalog.workshops.aws/kiro-immersion/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Kiro による AI 駆動開発</a>  
+このワークショップでは、実際のサーバーレスアプリケーションを使ったハンズオン演習を通じて、Kiro の AI ネイティブ開発機能を活用し、コード品質とアーキテクチャの一貫性を維持しながら、より迅速に機能を構築する方法を学びます。  
+tag : Kiro, Vibe Coding, Spec-Driven Development, Steering, Agent Hooks, MCP  
+
+- <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/bea96f42-0c90-41cf-986e-8c684e372ff7/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Kiro で体験する AI 駆動開発ハンズオン</a>  
+AWS が提供する AI コーディングエージェント Kiro を使って、AI を活用したソフトウェア開発を体験するワークショップです。Vibe Coding、補足情報によるクオリティ向上、要件・ユーザーストーリーの整理を実践します。  
+tag : Kiro, Vibe Coding, AI駆動開発  
+
 ## ![image]([img/Arch-Category_End-User-Computing_16.png]()) End User Computing
 - <a href="https://catalog.us-east-1.prod.workshops.aws/workshops/ba8389fd-99a1-4010-a95e-d691a2c08311/ja-JP" target="_blank" onclick="sendClickCount()" onauxclick="sendClickCount()">Amazon WorkSpaces 入門</a>  
 このラボでは、Amazon WorkSpaces とAWS Directory Service を使用して、組織のエンドユーザー向けにクラウドデスクトップを展開する方法について学習します。想定所要時間：4時間  
